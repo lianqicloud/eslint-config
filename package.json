@@ -1,6 +1,6 @@
 {
   "name": "@lianqicloud/eslint-config-monorepo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "packageManager": "pnpm@8.5.1",
   "author": "LianqiCloud Front-end Team",

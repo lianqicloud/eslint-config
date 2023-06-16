@@ -1,6 +1,6 @@
 {
   "name": "@lianqicloud/eslint-config-basic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "author": "LianqiCloud Front-end Team",
   "license": "MIT",
@@ -19,7 +19,6 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "eslint-plugin-lianqicloud": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.27.5",
