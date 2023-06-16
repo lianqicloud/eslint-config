@@ -1,6 +1,6 @@
 {
   "name": "@lianqicloud/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Anthony's ESLint config",
   "author": "LianqiCloud Front-end Team",
   "license": "MIT",
