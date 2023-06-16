@@ -1,6 +1,6 @@
 {
   "name": "@lianqicloud/eslint-config-ts",
-  "version": "0.39.5",
+  "version": "1.0.0",
   "description": "",
   "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/lianqicloud/)",
   "license": "MIT",

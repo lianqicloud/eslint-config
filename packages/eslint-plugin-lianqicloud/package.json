@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-lianqicloud",
-  "version": "0.39.5",
+  "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://github.com/lianqicloud/eslint-config",
   "main": "./dist/index.cjs",
