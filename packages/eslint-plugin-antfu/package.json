@@ -1,8 +1,8 @@
 {
-  "name": "eslint-plugin-antfu",
+  "name": "eslint-plugin-lianqicloud",
   "version": "0.39.5",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/eslint-config",
+  "homepage": "https://github.com/lianqicloud/eslint-config",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

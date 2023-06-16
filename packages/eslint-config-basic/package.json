@@ -1,10 +1,10 @@
 {
-  "name": "@antfu/eslint-config-basic",
+  "name": "@lianqicloud/eslint-config-basic",
   "version": "0.39.5",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
+  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/lianqicloud/)",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/eslint-config",
+  "homepage": "https://github.com/lianqicloud/eslint-config",
   "keywords": [
     "eslint-config"
   ],
@@ -19,7 +19,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "eslint-plugin-antfu": "workspace:*",
+    "eslint-plugin-lianqicloud": "workspace:*",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.27.5",

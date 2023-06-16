@@ -1,6 +1,6 @@
-# @antfu/eslint-config
+# @lianqicloud/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@antfu/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@antfu/eslint-config)
+[![npm](https://img.shields.io/npm/v/@lianqicloud/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@lianqicloud/eslint-config)
 
 - Single quotes, no semi
 - Auto fix for formatting (aimed to be used standalone **without** Prettier)
@@ -15,14 +15,14 @@
 ### Install
 
 ```bash
-pnpm add -D eslint @antfu/eslint-config
+pnpm add -D eslint @lianqicloud/eslint-config
 ```
 
 ### Config `.eslintrc`
 
 ```json
 {
-  "extends": "@antfu"
+  "extends": "@lianqicloud"
 }
 ```
 
@@ -64,7 +64,7 @@ Type aware rules are enabled when a `tsconfig.eslint.json` is found in the proje
 process.env.ESLINT_TSCONFIG = 'tsconfig.json'
 
 module.exports = {
-  extends: '@antfu'
+  extends: '@lianqicloud'
 }
 ```
 
@@ -93,7 +93,7 @@ npm i -D lint-staged simple-git-hooks
 
 ### Prettier?
 
-[Why I don't use Prettier](https://antfu.me/posts/why-not-prettier)
+[Why I don't use Prettier](https://lianqicloud.me/posts/why-not-prettier)
 
 ### How to lint CSS?
 
@@ -107,7 +107,7 @@ Sure, you can override the rules in your `.eslintrc` file.
 
 ```jsonc
 {
-  "extends": "@antfu",
+  "extends": "@lianqicloud",
   "rules": {
     // your rules...
   }
@@ -118,11 +118,11 @@ Or you can always fork this repo and make your own.
 
 ## Check Also
 
-- [antfu/dotfiles](https://github.com/antfu/dotfiles) - My dotfiles
-- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings
-- [antfu/ts-starter](https://github.com/antfu/ts-starter) - My starter template for TypeScript library
-- [antfu/vitesse](https://github.com/antfu/vitesse) - My starter template for Vue & Vite app
+- [lianqicloud/dotfiles](https://github.com/lianqicloud/dotfiles) - My dotfiles
+- [lianqicloud/vscode-settings](https://github.com/lianqicloud/vscode-settings) - My VS Code settings
+- [lianqicloud/ts-starter](https://github.com/lianqicloud/ts-starter) - My starter template for TypeScript library
+- [lianqicloud/vitesse](https://github.com/lianqicloud/vitesse) - My starter template for Vue & Vite app
 
 ## License
 
-[MIT](./LICENSE) License &copy; 2019-PRESENT [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License &copy; 2019-PRESENT [Anthony Fu](https://github.com/lianqicloud)
