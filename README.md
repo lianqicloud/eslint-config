@@ -1,5 +1,7 @@
 # @lianqicloud/eslint-config
 
+forked from [antfu/eslint-config](https://github.com/antfu/eslint-config), but React, TypeScript out-of-box by default
+
 [![npm](https://img.shields.io/npm/v/@lianqicloud/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@lianqicloud/eslint-config)
 
 - Single quotes, no semi

@@ -1,5 +1,5 @@
 module.exports = {
   extends: [
-    '@lianqicloud/eslint-config-vue',
+    '@lianqicloud/eslint-config-react',
   ],
 }
