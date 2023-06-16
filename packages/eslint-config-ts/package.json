@@ -2,7 +2,7 @@
   "name": "@lianqicloud/eslint-config-ts",
   "version": "1.0.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/lianqicloud/)",
+  "author": "LianqiCloud Front-end Team",
   "license": "MIT",
   "homepage": "https://github.com/lianqicloud/eslint-config",
   "keywords": [
