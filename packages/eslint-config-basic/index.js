@@ -48,7 +48,6 @@ module.exports = {
   plugins: [
     'html',
     'unicorn',
-    'lianqicloud',
     'no-only-tests',
     'unused-imports',
   ],
@@ -202,8 +201,6 @@ module.exports = {
         'no-undef': 'off',
         'no-unused-expressions': 'off',
         'no-unused-vars': 'off',
-        'lianqicloud/no-cjs-exports': 'off',
-        'lianqicloud/no-ts-export-equal': 'off',
       },
     },
   ],
@@ -390,10 +387,5 @@ module.exports = {
     'yml/quotes': ['error', { prefer: 'single', avoidEscape: false }],
     'yml/no-empty-document': 'off',
 
-    // lianqicloud
-    'lianqicloud/if-newline': 'error',
-    'lianqicloud/import-dedupe': 'error',
-    'lianqicloud/top-level-function': 'error',
-    // 'lianqicloud/prefer-inline-type-import': 'error',
   },
 }
